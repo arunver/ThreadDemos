@@ -1,3 +1,4 @@
+package com.example.test;
 class HelloWorld
 {
 
